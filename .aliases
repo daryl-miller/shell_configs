@@ -1,4 +1,5 @@
 alias google="web_search google"
 alias repo=~/Documents/repo
+alias work=~/Documents/repo/work
 alias audio=pavucontrol
 alias lock="i3lock --color 000000"
