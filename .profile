@@ -1,4 +1,4 @@
-profile_path=~/.shell_config
+profile_path=$HOME/.shell_config
 
 source $profile_path/.zshrc
 source $profile_path/.aliases
